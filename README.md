@@ -29,5 +29,9 @@ networking:
 - network interfaces (deep dive)
 - ping
 
+virtualization:
+- hypervisors (kvm)
+- emulators (qemu)
+
 server administration:
 - ILO

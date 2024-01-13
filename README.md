@@ -4,8 +4,10 @@ Notes taken while learning how Linux works.
 
 # TOC
 
-- [Procs](./procs/README.md)
-- [Statistics](./stats/README.md)
+- [Processes](./processes/README.md)
+- [IO Devices](./io/README.md)
+- [Networking](./networking/README.md)
+- [System Statistics](./sysstats/README.md)
 
 # TODO
 
@@ -15,7 +17,7 @@ procs:
 - strace
 - kernel mode vs. user mode
 
-disk:
+io:
 - raid (soft/hard)
 - filesystems (ext4, xfs, tmpfs, btrfs, etc.)
 - iotop

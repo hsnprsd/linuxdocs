@@ -30,7 +30,7 @@ networking:
 - ping
 
 virtualization:
-- hypervisors (kvm)
+- hypervisors (kvm / virtualbox / vagrant)
 - emulators (qemu)
 
 server administration:

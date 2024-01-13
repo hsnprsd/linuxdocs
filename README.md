@@ -12,6 +12,7 @@ Notes taken while learning how Linux works.
 # TODO
 
 procs:
+- systemd (systemctl / journalctl)
 - top
 - ps
 - strace

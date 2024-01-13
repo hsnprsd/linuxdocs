@@ -19,7 +19,6 @@ procs:
 
 io-devices:
 - raid (soft/hard)
-- filesystems (ext4, xfs, tmpfs, btrfs, etc.)
 - iotop
 - SAN / NAS
 
@@ -31,8 +30,21 @@ networking:
 - wireshark / tcpdump
 - nmap (security)
 - ip (route, link, addr)
+- iptables
 - network interfaces (deep dive)
 - ping
+- nc / telnet
+- lsof
+
+filesystem:
+- filesystems (ext4, xfs, tmpfs, btrfs, etc.)
+- lsblk
+- inodes
+- fsck / cfdisk
+- file descryptors
+- lsof
+- df / du
+- find
 
 virtualization:
 - hypervisors (kvm / virtualbox / vagrant)
@@ -44,6 +56,10 @@ containerization:
 
 terminals:
 - pty / tty
+
+text manipulation:
+- sed
+- awk
 
 server administration:
 - ILO

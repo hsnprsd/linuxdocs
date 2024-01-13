@@ -39,5 +39,8 @@ containerization:
 - cgroups
 - namespaces
 
+terminals:
+- pty / tty
+
 server administration:
 - ILO

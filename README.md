@@ -11,6 +11,9 @@ Notes taken while learning how Linux works.
 
 procs:
 - top
+- ps
+- strace
+- kernel mode vs. user mode
 
 disk io:
 - iotop
@@ -20,3 +23,11 @@ networking:
 - netplan
 - ss / netstat
 - iperf / nethogs / iftop
+- wireshark / tcpdump
+- nmap (security)
+- ip (route, link, addr)
+- network interfaces (deep dive)
+- ping
+
+server administration:
+- ILO

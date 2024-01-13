@@ -15,7 +15,7 @@ procs:
 - strace
 - kernel mode vs. user mode
 
-storage:
+disk:
 - raid (soft/hard)
 - filesystems (ext4, xfs, tmpfs, btrfs, etc.)
 - iotop

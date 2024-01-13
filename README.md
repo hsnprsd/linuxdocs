@@ -17,10 +17,11 @@ procs:
 - strace
 - kernel mode vs. user mode
 
-io:
+io-devices:
 - raid (soft/hard)
 - filesystems (ext4, xfs, tmpfs, btrfs, etc.)
 - iotop
+- SAN / NAS
 
 networking:
 - systemd-resolved

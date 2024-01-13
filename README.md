@@ -33,5 +33,9 @@ virtualization:
 - hypervisors (kvm / virtualbox / vagrant)
 - emulators (qemu)
 
+containerization:
+- cgroups
+- namespaces
+
 server administration:
 - ILO

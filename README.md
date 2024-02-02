@@ -36,6 +36,8 @@ networking:
 - ping
 - nc / telnet
 - lsof
+- QUIC
+- TLS
 
 filesystem:
 - filesystems (ext4, xfs, tmpfs, btrfs, etc.)
